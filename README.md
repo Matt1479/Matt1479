@@ -1,6 +1,6 @@
 <div>👋 Hello, I'm Matt</div></div>
 <div>👀 I’m interested in Web Development and Mobile App Development</div>
-<div>🌱 I’m currently learning JavaScript, TypeScript, Angular and Ionic</div>
+<div>🌱 I’m currently learning CS50x</div>
 
 ####
 ####
